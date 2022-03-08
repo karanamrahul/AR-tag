@@ -9,8 +9,8 @@ from helpers import*
 
 
 
-img=cv2.imread('/home/raul/Documents/ENPM673/Opencv/Project-1/tag_photos/tag54.jpg')
-img_tag_ref=cv2.imread('/home/raul/Documents/ENPM673/Opencv/Project-1/marker_tag.jpeg')  # source the april tag reference image
+img=cv2.imread('AR-tag/results/tag54.jpg')
+img_tag_ref=cv2.imread('AR-tag/results/marker_tag.jpeg')  # source the april tag reference image
 world_coords=np.float32([[0,0],[160,0],[160,160],[0,160]])
 image_fft=fft_ifft(img)
 corner_points=get_corners(image_fft)

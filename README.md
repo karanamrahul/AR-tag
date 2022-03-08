@@ -66,11 +66,11 @@ python3 projcube.py
 
 Problem 2a:
 Output for 1tagvideo.mp4: 
-
+https://drive.google.com/drive/folders/17uvekw6EzbJL63fmnQd51FWaF0KMO2NO?usp=sharing
 
 Problem 2b:
 Output for 1tagvideo.mp4: 
-
+https://drive.google.com/drive/folders/17uvekw6EzbJL63fmnQd51FWaF0KMO2NO?usp=sharing
 
 
 ### References
