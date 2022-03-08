@@ -9,10 +9,10 @@ from scipy.spatial import distance as dist
 
 
 #img = cv2.imread('/home/raul/Documents/ENPM673/Opencv/Project-1/tag_photos/tag3.jpg') # load an image
-testudo_img = cv2.imread('/AR-tag/results/testudo.png')
+testudo_img = cv2.imread('AR-tag/results/testudo.png')
 testudo_img = cv2.resize(testudo_img, (160, 160))
 world_coords_ref_tag=np.float32([[0,0],[0,160],[160,160],[160,0]])
-source = '/AR-tag/results/1tagvideo.mp4'  # source the april tag video
+source = 'AR-tag/results/1tagvideo.mp4'  # source the april tag video
 cap = cv2.VideoCapture(source)
 # Specify the path of the output video to be rendered
 result = cv2.VideoWriter('result.mp4',
