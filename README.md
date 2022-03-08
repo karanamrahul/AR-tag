@@ -18,11 +18,11 @@ To run the .py files, use Python 3. Standard Python 3 libraries like OpenCV, Num
 
 
 ### Finding a orientation of AR tag using Homography matrix
-![Screenshot](outputs/output2.jpg)
+![](https://github.com/karanamrahul/AR-tag/blob/main/results/AR-Tag%20Decoded_screenshot_07.03.2022.png)
 
 
 ### Superimposing the Testudo Image onto AR Tag
-![Screenshot](outputs/output3.jpg)
+![](https://github.com/karanamrahul/AR-tag/blob/main/results/Super-imposed-image_screenshot_07.03.2022.png)
 
 
 ### Steps to Run the code
@@ -60,7 +60,7 @@ cd repository
 python3 projcube.py
 ```
 #### Example for Projecting Cube
-![Screenshot](outputs/output2.jpg)
+![](https://github.com/karanamrahul/AR-tag/blob/main/results/projected_screenshot_07.03.2022.png)
 
 ### Video File Output Links
 
